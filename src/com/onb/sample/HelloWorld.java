@@ -6,6 +6,7 @@ public class HelloWorld {
 	private String nigga = "Yoh nigga homie!";
 	private String exp = "Experiment";
 	private String exp2 = "Experiment2";
+	private String exp3 = "Experiment3";
 	
 	public String saySomeHello() {
 		return message;
