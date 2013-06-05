@@ -4,6 +4,8 @@ public class HelloWorld {
 
 	private String message = "Hello nigga world";
 	private String nigga = "Yoh nigga homie!";
+	private String exp = "Experiment";
+	private String exp2 = "Experiment2";
 	
 	public String saySomeHello() {
 		return message;
