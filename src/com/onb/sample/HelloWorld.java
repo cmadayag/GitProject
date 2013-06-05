@@ -11,4 +11,8 @@ public class HelloWorld {
 	public String saySomeHello() {
 		return message;
 	}
+	
+	public boolean isDancing() {
+		return true;
+	}
 }
